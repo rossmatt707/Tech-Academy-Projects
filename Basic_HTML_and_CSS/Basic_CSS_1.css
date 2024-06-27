@@ -1,0 +1,20 @@
+Look {
+	border: 400px solid yellow;
+	text-align: center;
+	width: 50%;
+	height: 25%;
+}
+body {
+	background-image: url('Jazz.jpg'); 
+	background-size: 5%;
+	background-size: repeat;
+	opacity: .7;
+}
+h1 { 
+	background-color: black;
+	color: yellow;
+}
+h2 {
+	background-color: black;
+	color: yellow;
+}
